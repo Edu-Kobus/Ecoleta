@@ -1,3 +1,3 @@
 
-![alt text](/nlw/public/assets/logo.svg)
- **Next Level Week 1.0**
+# ![logo](/nlw/public/assets/logo.svg)
+**Next Level Week 1.0**

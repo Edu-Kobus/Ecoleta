@@ -31,3 +31,9 @@
 
 ## :raised_hands: Agradecimentos
 #### Conteúdo ministrado pela **Rocketseat** na semana *Next Level Week* através do icônico Mayke Britto (@maykbrito)!
+
+&nbsp;
+
+## :memo: Licença
+#### Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+
